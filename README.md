@@ -71,6 +71,11 @@ When a message is entered, the app returns:
 A flash message and label appear on the web page accordingly.
 
 ---
+**Snapsshot** -
+output in this github project ,which is named has s1.png and s2.png
+
+---
+
 ## 🔬 Model Training Info
 
 The model was trained using:
