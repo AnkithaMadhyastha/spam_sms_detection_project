@@ -15,7 +15,7 @@ nltk.download('stopwords')
 
 # 🔍 Load dataset
 print("🔍 Loading dataset...")
-df = pd.read_csv("data/spam.csv", encoding='latin1')
+df = pd.read_csv("data/spam_70ham_30spam.csv", encoding='latin1')
 
 # Drop unnecessary columns and missing values
 df.dropna(inplace=True)
