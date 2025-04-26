@@ -1,0 +1,17 @@
+# Web Framework
+Flask==2.3.2
+
+# Machine Learning
+scikit-learn==1.3.0
+joblib==1.3.2
+
+# NLP and Text Preprocessing
+nltk==3.8.1
+
+# Core dependencies
+numpy==1.24.3
+scipy==1.11.1
+pandas==2.0.3
+matplotlib
+seaborn
+
