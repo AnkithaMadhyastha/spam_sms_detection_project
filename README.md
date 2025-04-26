@@ -1,5 +1,3 @@
-# Spam SMS Detection
-A simple spam classifier using Naive Bayes and Flask web interface.
 # 📩 SMS Spam Detection Web App
 
 A simple web-based application built using Flask and Machine Learning to detect whether a given SMS message is Spam or Ham (Not Spam).
@@ -27,7 +25,6 @@ A simple web-based application built using Flask and Machine Learning to detect 
 5. **Output**: The prediction is shown with a flash message and result card.
 
 ---
-
 
 ## 📁 Folder Structure   
 spam_sms_detection_project/ ├── app/ │ ├── app.py # Flask application │ ├── templates/ │ │ └── index.html # Frontend ├── model/ │ ├── spam_classifier.pkl # Trained ML model │ └── tfidf_vectorizer.pkl # TF-IDF Vectorizer ├── spam.csv # Dataset (optional) ├── requirements.txt └── README.md
